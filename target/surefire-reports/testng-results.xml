@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="1169" started-at="2021-03-10T19:53:35Z" finished-at="2021-03-10T19:53:37Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="1169" started-at="2021-03-10T19:53:35Z" finished-at="2021-03-10T19:53:37Z">
+      <class name="com.nackademin.khalil_chemali_assignment02.BacisCalculatorTest">
+        <test-method status="PASS" signature="testMultiplication()[pri:0, instance:testMultiplication(com.nackademin.khalil_chemali_assignment02.BacisCalculatorTest)]" name="testMultiplication" duration-ms="53" started-at="2021-03-10T20:53:36Z" finished-at="2021-03-10T20:53:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultiplication -->
+        <test-method status="PASS" signature="testAddition()[pri:0, instance:testAddition(com.nackademin.khalil_chemali_assignment02.BacisCalculatorTest)]" name="testAddition" duration-ms="40" started-at="2021-03-10T20:53:36Z" finished-at="2021-03-10T20:53:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddition -->
+        <test-method status="PASS" signature="testDivision()[pri:0, instance:testDivision(com.nackademin.khalil_chemali_assignment02.BacisCalculatorTest)]" name="testDivision" duration-ms="35" started-at="2021-03-10T20:53:37Z" finished-at="2021-03-10T20:53:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivision -->
+        <test-method status="PASS" signature="testSubtraction()[pri:0, instance:testSubtraction(com.nackademin.khalil_chemali_assignment02.BacisCalculatorTest)]" name="testSubtraction" duration-ms="39" started-at="2021-03-10T20:53:37Z" finished-at="2021-03-10T20:53:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubtraction -->
+      </class> <!-- com.nackademin.khalil_chemali_assignment02.BacisCalculatorTest -->
+      <class name="com.nackademin.khalil_chemali_assignment02.AdvancedCalculatorTest">
+        <test-method status="PASS" signature="testPowerOf()[pri:0, instance:testPowerOf(com.nackademin.khalil_chemali_assignment02.AdvancedCalculatorTest)]" name="testPowerOf" duration-ms="134" started-at="2021-03-10T20:53:36Z" finished-at="2021-03-10T20:53:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPowerOf -->
+        <test-method status="PASS" signature="testAbsoluteValue()[pri:0, instance:testAbsoluteValue(com.nackademin.khalil_chemali_assignment02.AdvancedCalculatorTest)]" name="testAbsoluteValue" duration-ms="43" started-at="2021-03-10T20:53:36Z" finished-at="2021-03-10T20:53:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAbsoluteValue -->
+        <test-method status="PASS" signature="testMaxValue()[pri:0, instance:testMaxValue(com.nackademin.khalil_chemali_assignment02.AdvancedCalculatorTest)]" name="testMaxValue" duration-ms="103" started-at="2021-03-10T20:53:36Z" finished-at="2021-03-10T20:53:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMaxValue -->
+        <test-method status="PASS" signature="testSquareRoot()[pri:0, instance:testSquareRoot(com.nackademin.khalil_chemali_assignment02.AdvancedCalculatorTest)]" name="testSquareRoot" duration-ms="45" started-at="2021-03-10T20:53:36Z" finished-at="2021-03-10T20:53:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSquareRoot -->
+        <test-method status="PASS" signature="testSquare()[pri:0, instance:testSquare(com.nackademin.khalil_chemali_assignment02.AdvancedCalculatorTest)]" name="testSquare" duration-ms="47" started-at="2021-03-10T20:53:36Z" finished-at="2021-03-10T20:53:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSquare -->
+      </class> <!-- com.nackademin.khalil_chemali_assignment02.AdvancedCalculatorTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
